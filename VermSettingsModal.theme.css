@@ -1,0 +1,15 @@
+/**
+ * @name Verm's Dark Theme - Recolor
+ * @description My SettingsModal preset
+ * @author VermillionTheLad
+ * @version 1.0.0
+/**/
+
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css);
+
+:root {
+	--settingsmodalbackground:			transparent;		/* default:	transparent		(lowest bg color of changed windows, change it in case another theme turns them transparent)	*/
+	--settingsmodalwidth:				1180px;				/* default:	960px			(width of the settings modal, px/vw)															*/
+	--settingsmodalheight:				85vh;				/* default:	80vh			(height of the settings modal, px/vh)															*/
+}
+
